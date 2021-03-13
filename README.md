@@ -33,7 +33,7 @@ Desenvolver habilidades de front-end e back-end.
 
 <details>
   <summary>Discover</summary>
-  <details style="margin-left: 1rem;">
+  <details style="margin-left: 1rem; width: calc(100% - 1rem);">
     <summary>Equipando sua nave</summary>
     <table>
       <tr>
